@@ -35,11 +35,11 @@ This data analytics project focuses on analyzing ATM transactions for Wisabi Ban
     - Identifying the average transaction time based on location, transaction type, time of day, customer type, and occupation.
 
 ## Dashboard pictures
-![Home Page](Pictures/pic02.jpeg)
+![Home Page](Pictures/pic02.png)
 
-![OverView Page](Pictures/pic03.jpeg)
+![OverView Page](Pictures/pic03.png)
 
-![Demography Page](Pictures/pic04.jpeg)
+![Demography Page](Pictures/pic04.png)
 
 
 ## Scope
