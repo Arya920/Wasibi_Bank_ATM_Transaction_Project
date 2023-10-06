@@ -1,5 +1,5 @@
 # Wisabi Bank ATM Transaction Analysis with Power BI
-
+![Header Image](Pictures/pic01.jpeg)
 ## Project Overview
 
 This data analytics project focuses on analyzing ATM transactions for Wisabi Bank, utilizing Power BI for comprehensive insights. The dataset comprises the Transactions fact table, along with dimension tables including Location, Customers, Transaction Type, Hour, and Calendar. The analysis involves data cleaning, transformation, and visualization.
@@ -33,6 +33,14 @@ This data analytics project focuses on analyzing ATM transactions for Wisabi Ban
 
 9. **Transaction Time Analysis**
     - Identifying the average transaction time based on location, transaction type, time of day, customer type, and occupation.
+
+## Dashboard pictures
+![Home Page](Pictures/pic02.jpeg)
+
+![OverView Page](Pictures/pic03.jpeg)
+
+![Demography Page](Pictures/pic04.jpeg)
+
 
 ## Scope
 
